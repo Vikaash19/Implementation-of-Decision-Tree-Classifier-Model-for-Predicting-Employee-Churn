@@ -49,18 +49,19 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ## Output:
 #### data.head()
 ![Screenshot 2024-04-06 202922](https://github.com/rohithprem18/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/146315115/3b6d1584-564f-4ff4-92e1-9e72a4bfd271)
+<br>
+<br>
+<br>
+
+<br>
+<br>
+
+
+<br>
+
 
 #### data.info()
 ![Screenshot 2024-04-06 202927](https://github.com/rohithprem18/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/146315115/6fd24494-3daa-4454-b74d-4705f541bc06)
-
-
-<br>
-<br>
-<br>
-
-<br>
-
-<br>
 
 #### isnull() and sum()
 ![Screenshot 2024-04-06 202931](https://github.com/rohithprem18/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/146315115/0bbc04b9-2b96-477b-bad1-d910d204480e)
