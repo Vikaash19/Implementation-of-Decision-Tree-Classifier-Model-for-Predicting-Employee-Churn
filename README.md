@@ -50,6 +50,7 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ![Screenshot 2024-04-06 202922](https://github.com/rohithprem18/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/146315115/3b6d1584-564f-4ff4-92e1-9e72a4bfd271)
 ### data.info()
 ![exp 6 op info](https://github.com/Vikaash19/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/148514589/c100f610-0f8a-4aec-ae65-652ab786dd2b)
+<br>
 ### isnull() and sum()
 ![Screenshot 2024-04-06 202931](https://github.com/rohithprem18/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/146315115/0bbc04b9-2b96-477b-bad1-d910d204480e)
 ### data value counts()
