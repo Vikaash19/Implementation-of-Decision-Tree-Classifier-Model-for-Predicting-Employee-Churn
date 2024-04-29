@@ -8,18 +8,17 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. Import pandas
-2. Import Decision tree classifier
-3. Fit the data in the model
-4. Find the accuracy score
-
+step-1:start
+<br>step-2:Import pandas
+<br>step-3:Import Decision tree classifier
+<br>step-4:Fit the data in the model
+<br>step-5:Find the accuracy score
+<br>step-6:stop
 ## Program:
 ```
-/*
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
 Developed by: VIKAASH K S
 Register Number:  212223240179
-
 import pandas as pd
 data=pd.read_csv("/content/Employee.csv")
 data.head()
@@ -28,6 +27,8 @@ data.isnull().sum()
 data["left"].value_counts()
 from sklearn.preprocessing import LabelEncoder
 le=LabelEncoder()
+```
+```
 data["salary"]=le.fit_transform(data["salary"])
 data.head()
 x=data[["satisfaction_level","last_evaluation","number_project","average_montly_hours","time_spend_company","Work_accident","promotion_last_5years","salary"]]
@@ -43,7 +44,6 @@ from sklearn import metrics
 accuracy=metrics.accuracy_score(y_test,y_pred)
 accuracy
 dt.predict([[0.5,0.8,9,260,6,0,1,2]])
-*/
 ```
 
 ## Output:
